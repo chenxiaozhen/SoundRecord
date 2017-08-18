@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/btn_startRecord"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="开始录音" />
+
+    <Button
+        android:id="@+id/btn_stopRecord"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="停止录音" />
+
+    <Button
+        android:id="@+id/btn_startPlay"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="开始播放" />
+
+    <Button
+        android:id="@+id/btn_pausePlay"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="暂停播放" />
+
+    <Button
+        android:id="@+id/btn_continuePlay"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="继续播放" />
+
+    <Button
+        android:id="@+id/btn_stopPlay"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="停止播放" />
+
+</LinearLayout>
