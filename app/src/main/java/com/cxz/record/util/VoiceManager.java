@@ -20,13 +20,6 @@ import java.io.IOException;
 import java.util.ArrayList;
 
 /**
- * 录音管理类（包括录音和播放）
- * 作者：xsf
- * 创建时间：2017/3/16
- * 最后修改时间：2017/3/16
- */
-
-/**
  * 录音管理（包括播放和监听）
  */
 public class VoiceManager {

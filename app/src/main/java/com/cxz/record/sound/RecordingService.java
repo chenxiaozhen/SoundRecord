@@ -1,4 +1,4 @@
-package com.cxz.record;
+package com.cxz.record.sound;
 
 import android.app.Notification;
 import android.app.NotificationManager;

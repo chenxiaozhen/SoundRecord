@@ -1,6 +1,5 @@
-package com.cxz.record;
+package com.cxz.record.sound;
 
-import android.media.AudioRecord;
 import android.media.MediaRecorder;
 
 import java.io.IOException;

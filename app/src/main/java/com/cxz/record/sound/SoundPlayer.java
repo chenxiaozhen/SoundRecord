@@ -1,4 +1,4 @@
-package com.cxz.record;
+package com.cxz.record.sound;
 
 import android.media.MediaPlayer;
 import android.util.Log;
